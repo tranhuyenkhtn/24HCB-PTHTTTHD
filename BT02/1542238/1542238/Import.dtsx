@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Import"
   DTS:PackageType="5"
-  DTS:VersionBuild="15"
-  DTS:VersionGUID="{F31ED72B-AE7B-46B8-B80A-B4EED771E3C5}">
+  DTS:VersionBuild="18"
+  DTS:VersionGUID="{191B3E73-4E25-49C0-BB68-A29073C709B1}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,15 +29,29 @@
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Excel Connection Manager 3]"
       DTS:CreationName="EXCEL"
+      DTS:Description="C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238\COW_INFO\Cow_info.xls"
       DTS:DTSID="{F8A1AC5C-478B-4AA6-B54B-4F2644F9620A}"
       DTS:ObjectName="Excel Connection Manager 3">
+      <DTS:PropertyExpression
+        DTS:Name="ExcelFilePath">@[User::file_path]</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238\COW_INFO\Cow_info.xls;Extended Properties=&quot;Excel 8.0;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238\COW_INFO\Cow_info.xls;Extended Properties=&quot;EXCEL 8.0;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
-  <DTS:Variables />
+  <DTS:Variables>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{FD10C727-E6CE-4BA9-BF72-0561479869F2}"
+      DTS:EvaluateAsExpression="True"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="file_path">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238\COW_INFO\Cow_info.xls</DTS:VariableValue>
+    </DTS:Variable>
+  </DTS:Variables>
   <DTS:Executables>
     <DTS:Executable
       DTS:refId="Package\Data Flow Task"

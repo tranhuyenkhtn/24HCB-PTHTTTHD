@@ -1,0 +1,10 @@
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_App\bin\Debug\1542238_App.exe.config
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_App\obj\Debug\1542238_App.csprojResolveAssemblyReference.cache
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_App\obj\Debug\Interop.SqlDest.dll
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_App\bin\Debug\1542238_App.exe
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_App\bin\Debug\1542238_App.pdb
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_App\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_App\obj\Debug\Interop.OleDbSrc.dll
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_App\obj\Debug\1542238_App.csproj.ResolveComReference.cache
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_App\obj\Debug\1542238_App.exe
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_App\obj\Debug\1542238_App.pdb
