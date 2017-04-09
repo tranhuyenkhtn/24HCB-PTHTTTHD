@@ -8,3 +8,6 @@ C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_Form\bin\
 C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_Form\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
 C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_Form\obj\Debug\1542238_Form.exe
 C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238_App\1542238_Form\obj\Debug\1542238_Form.pdb
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238\1542238_App\1542238_Form\bin\Debug\1542238_Form.exe.config
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238\1542238_App\1542238_Form\obj\Debug\1542238_Form.exe
+C:\Users\ng.phuocloc\Documents\24HCB-PTHTTTHD\BT02\1542238\1542238_App\1542238_Form\obj\Debug\1542238_Form.pdb
